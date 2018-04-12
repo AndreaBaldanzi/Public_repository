@@ -1,2 +1,2 @@
 # Public_repository
-A public repository
+My public repository
